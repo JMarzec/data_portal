@@ -1,0 +1,8 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./GeneCoExpr.R
+--args
+CCLE_PC_processed_mRNA.txt
+CCLE_PC_target.txt
+Genes_of_interest.txt
+Example_results/PC_GeneCoExpr
+Primary Tumour

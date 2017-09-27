@@ -1,0 +1,8 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./PCA.R
+--args
+CCLE_PC_processed_mRNA.txt
+CCLE_PC_target.txt
+Derived_From
+1
+Example_results/PC_PCA

@@ -1,0 +1,8 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./GeneCoExpr.R
+--args
+TCGA_PAAD_normalized.txt
+TCGA_PAAD_target.txt
+Genes_of_interest.txt
+Example_results/PC_GeneCoExpr
+PDAC

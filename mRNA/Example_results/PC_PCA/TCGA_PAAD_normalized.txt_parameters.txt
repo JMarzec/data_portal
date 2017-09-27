@@ -1,0 +1,8 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./PCA.R
+--args
+TCGA_PAAD_normalized.txt
+TCGA_PAAD_target.txt
+Target
+1
+Example_results/PC_PCA

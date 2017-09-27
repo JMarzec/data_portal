@@ -1,0 +1,7 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./ExprProfile.R
+--args
+TCGA_PAAD_normalized.txt
+TCGA_PAAD_target.txt
+KRAS
+Example_results/PC_ExprProfile

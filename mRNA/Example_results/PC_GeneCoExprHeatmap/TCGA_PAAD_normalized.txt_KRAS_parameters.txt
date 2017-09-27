@@ -1,0 +1,9 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./GeneCoExprHeatmap.R
+--args
+TCGA_PAAD_normalized.txt
+TCGA_PAAD_target.txt
+KRAS
+20
+Example_results/PC_GeneCoExprHeatmap
+Gene_list.txt
