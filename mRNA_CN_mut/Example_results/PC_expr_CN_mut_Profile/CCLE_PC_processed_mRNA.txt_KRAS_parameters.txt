@@ -1,0 +1,9 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./Expr_CN_mut_Profile.R
+--args
+CCLE_PC_processed_mRNA.txt
+CCLE_PC_processed_CN.txt
+CCLE_PC_processed_mut.txt
+CCLE_PC_target.txt
+KRAS
+Example_results/PC_Expr_CN_mut_Profile
