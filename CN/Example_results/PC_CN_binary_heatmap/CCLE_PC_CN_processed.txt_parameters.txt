@@ -1,0 +1,9 @@
+/Library/Frameworks/R.framework/Resources/bin/exec/R
+--file=./CN_binary_heatmap.R
+--args
+CCLE_PC_CN_processed.txt
+CCLE_PC_target.txt
+Example_results/PC_CN_binary_heatmap
+Gene_list.txt
+3
+10

@@ -1,0 +1,45 @@
+Sample_name	File_name	Derived_From	Tumour_Type	Gender
+MiaPaCa-2	MIAPACA2_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+Capan-2	CAPAN2_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+Hs766T	HS766T_PANCREAS	Metastasis (lymph node)	adenocarcinoma	Male
+Panc10.05	PANC1005_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+AsPC-1	ASPC1_PANCREAS	Metastasis (ascites)	ductal adenocarcinoma	Female
+L3.3	L33_PANCREAS	Metastasis (lymph node)	adenosquamous carcinoma	Female
+KP-2	KP2_PANCREAS	Primary Tumour	carcinoma	Female
+PaTu8902	PATU8902_PANCREAS	Primary Tumour	adenocarcinoma	Female
+DAN-G	DANG_PANCREAS	Primary Tumour	adenocarcinoma	Female
+HuP-T3	HUPT3_PANCREAS	Primary Tumour	adenocarcinoma	Male
+TCC-PAN2	TCCPAN2_PANCREAS	Primary Tumour	adenocarcinoma	Female
+HuP-T4	HUPT4_PANCREAS	Primary Tumour	adenocarcinoma	Male
+PSN1	PSN1_PANCREAS	Primary Tumour	adenocarcinoma	NA
+PaTu8988T	PATU8988T_PANCREAS	Primary Tumour	adenocarcinoma	Male
+Panc4.03	PANC0403_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+KCI-MOH1	KCIMOH1_PANCREAS	Primary Tumour	adenocarcinoma	Male
+PK-59	PK59_PANCREAS	Metastasis (liver)	carcinoma	Female
+QGP-1	QGP1_PANCREAS	Primary Tumour	somatostatinoma	Male
+Panc3.27	PANC0327_PANCREAS	Primary Tumour	adenocarcinoma	Female
+HPAF-II	HPAFII_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+Capan-1	CAPAN1_PANCREAS	Metastasis (liver)	ductal adenocarcinoma	Male
+CFPAC-1	CFPAC1_PANCREAS	Metastasis (liver)	ductal adenocarcinoma	Male
+Panc2.13	PANC0213_PANCREAS	Primary Tumour	adenocarcinoma	Female
+BxPC-3	BXPC3_PANCREAS	Primary Tumour	ductal adenocarcinoma	Female
+KP-3	KP3_PANCREAS	Metastasis (liver)	adenosquamous carcinoma	Male
+KP-4	KP4_PANCREAS	Primary Tumour	carcinoma	Male
+PaTu8988S	PATU8988S_PANCREAS	Primary Tumour	adenocarcinoma	Female
+PL45	PL45_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+SW1990	SW1990_PANCREAS	Primary Tumour	adenocarcinoma	Male
+Panc-1	PANC1_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+Panc8.13	PANC0813_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+PK-1	PK1_PANCREAS	Metastasis (liver)	ductal adenocarcinoma	Male
+Panc5.04	PANC0504_PANCREAS	Primary Tumour	ductal adenocarcinoma	Female
+SUIT-2	SUIT2_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+YAPC	YAPC_PANCREAS	Primary Tumour	carcinoma	Male
+SNU-410	SNU410_PANCREAS	Primary Tumour	adenocarcinoma	Male
+T3M-4	T3M4_PANCREAS	Primary Tumour	ductal adenocarcinoma	Male
+PK-45H	PK45H_PANCREAS	Primary Tumour	carcinoma	NA
+HPAC	HPAC_PANCREAS	Primary Tumour	adenocarcinoma	Female
+SU-86-86	SU8686_PANCREAS	Metastasis (liver)	adenocarcinoma	Female
+Panc2.03	PANC0203_PANCREAS	Primary Tumour	adenocarcinoma	Female
+SNU-324	SNU324_PANCREAS	Primary Tumour	adenocarcinoma	Male
+SNU-213	SNU213_PANCREAS	Primary Tumour	adenocarcinoma	Male
+KLM-1	KLM1_PANCREAS	Metastasis (liver)	ductal adenocarcinoma	Male
